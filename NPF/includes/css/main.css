@@ -1,0 +1,53 @@
+.dero-background {
+  background-image: url('../img/worldmap_bg.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+
+.fixed-top-pt {
+  padding-top: 50px;
+}
+
+
+
+.p {
+  
+  border-bottom-style: solid;
+  border-bottom-style: solid;
+  border-width: 5px;
+  border-style: solid;
+  border-width: 5px;
+  border-right-style: solid;
+  border-bottom-style: dotted;
+  border-left-style: solid;
+}
+
+
+.radius {
+
+  border-radius: 100px;
+}
+
+.radius2 {
+  border: solid 1px;
+  border-radius: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.line1 {
+  border: 1px;
+  border-top-style: solid;
+  border-bottom-style: solid;
+}
+
+.line2 {
+  border: 1px;
+  border-bottom-style: double;
+}
+
+
